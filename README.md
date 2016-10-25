@@ -15,13 +15,13 @@ The code will look like the following:
 <body>
 ```
 
-Softwares:
+**Softwares:**
 
 VirtualBox 
 5.1.x/VMWare 
 Workstation 12.x
 
-Hardware Specifications:
+**Hardware Specifications:**
 
 PC or Mac
 Windows 7 SP1 (recommended) or 
@@ -35,7 +35,7 @@ Workstation running the following
 operating systems: Kali Linux 2.0 
 Windows 7 SP1 (if host is Mac)
 
-OS Required:
+**OS Required:**
 
 Windows 7/Mac 
 OS X
