@@ -25,11 +25,13 @@ Workstation 12.x
 
 PC or Mac
 Windows 7 SP1 (recommended) or 
-higher Mac OS X 10.10 or higher 
+higher Mac OS X 10.10 or higher.
+
 The host machine should have at 
 least: 2.2 GHz Core i3/i5 processor 
 or AMD equivalent. 8GB or 16GB 
 of RAM, the higher the better.
+
 VirtualBox or VMWare 
 Workstation running the following 
 operating systems: Kali Linux 2.0 
